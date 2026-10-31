@@ -53,3 +53,22 @@ Description: wkk付费插件已破解
 Name: GlassSuiteX
 Author: wkk
 
+Package: com.wkk.systembox
+Architecture: iphoneos-arm64e
+Version: 1.5-8end
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 2792
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.wkk.clockglass
+Filename: debs/systembox_1.5-8_终结版-arm64e.deb
+Size: 589412
+MD5sum: 375bbdc497d109cbd91ada5e4906ede2
+SHA1: 199b6e5faff85bb9189f536203c41ea8c22f0301
+SHA256: f45bf39cf044e73f2eac9c850b221eb2e3fa8977dbf5c3f42fff6e9a9d237c3d
+SHA512: a36e5062c0f70607f0993b366190f02123a4fe201580e1ef59aa6c4684e523bf61e5a8e0aa1731f2b9abf9b76ea81bed4e52db5f2c8c52302b3216ab14ac2528
+Description: wkk付费插件已破解
+Name: systembox
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
