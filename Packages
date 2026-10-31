@@ -1,3 +1,21 @@
+Package: com.susudear.screencore
+Architecture: iphoneos-arm64
+Version: 2.0.5
+Section: Tweaks
+Maintainer: SuSu
+Installed-Size: 3092
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/ScreenCore_2.0.5_iphoneos-arm64.deb
+Size: 488348
+MD5sum: 946739ec0c6aa319d78285523f29ebf3
+SHA1: 44725ec9b35c822e48f8bc6df108b5d863c902fa
+SHA256: 70513bae133d171db540f37b84d90337dbe8cf2edb11969b49b4ae14fc8f6faf
+SHA512: 79959aaee99734cc24ca8e7f0b344da7e15345d25766b7af71a13937403fda5318651ee604ae9d69bad893f29efd864da9a03f63ea28b1989f80f54ba3e3b1d4
+Description: 分屏而已...
+Name: ScreenCore
+Author: SuSu
+Icon: https://repo.susubaby.cn/icons/ScreenCore.png
+
 Package: byg.iosios.net.filzacrack-rootless
 Architecture: iphoneos-arm64e
 Version: 1.1-9
