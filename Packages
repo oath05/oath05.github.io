@@ -36,6 +36,23 @@ Author: Netskao
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
 
+Package: com.iosdump.screenrecordnostatusbar
+Architecture: iphoneos-arm64e
+Version: 0.1
+Section: Tweaks
+Maintainer: iosdump
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.iosdump.screenrecordnostatusbar_0.1_iphoneos-arm64e.deb
+Size: 5544
+MD5sum: b059901226309364e1de5b2bb65e924b
+SHA1: 178ca76d18411b2e9ed22dba50594aa6775318b8
+SHA256: 36c8a814c849266df270f068140bededa6337dabca63eb186dd9c8ecafc1344b
+SHA512: dc163b23bbf8a0c9980fb6d68f8978296963ae14460320a846c509af63fa6eeaa2e08a9f1b0c78a30a5bd0c610ba1d39eab21ed9626fcd5a0b081e5382d3930e
+Description: iOS 14-17 录屏时全程隐藏状态栏，无设置项。(防止某些人盯着状态栏 猜用户）
+Name: ScreenRecordNoStatusBar
+Author: iosdump
+
 Package: com.opa334.choicy
 Architecture: iphoneos-arm64e
 Version: 1.5.4

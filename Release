@@ -9,8 +9,8 @@ Description: 言言源
 Support: https://oath05.github.io/
 Icon: https://oath05.github.io/CydiaIcon.png
 MD5Sum:
- 12d3fb6941ca648043880b7b69535209  3599 Packages
- e76ddce8208461c8ab33ac1d8484b43b  1794 Packages.gz
+ b5c7d677a98d6cce6dff65b974ba494a  4315 Packages
+ 8773f40989335d0b4a7463f03a4c845c  2150 Packages.gz
 SHA256:
- b56f69ef96cf0b74b72c85369429c63b58a54369c93341b1c81a0c4b84856068  3599 Packages
- 81855b134d3e5112af005101474345fe60f9410529c75d9d2f509135fb3e130a  1794 Packages.gz
+ 4d52f54c7c58a97001c696ff1befc4a377f068d0b29171c7e78dad4dfe26b3cb  4315 Packages
+ de76a6310d3dcedc0442874370650cb5346ef17ed858ecc92874502adfc02875  2150 Packages.gz
