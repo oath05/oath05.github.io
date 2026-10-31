@@ -6,5 +6,9 @@
   "com.opa334.choicy_1.5.4_iphoneos-arm64e.deb": {
     "name": "",
     "desc": "指定屏蔽越狱插件，避免检测。"
+  },
+  "byg.iosios.net.filzacrack-rootless_1.1-9_iphoneos-arm64e_隐根.deb": {
+    "name": "Filza破解插件",
+    "desc": "Filza破解插件——完整版"
   }
 }
