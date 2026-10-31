@@ -53,6 +53,23 @@ Description: iOS 14-17 录屏时全程隐藏状态栏，无设置项。(防止�
 Name: ScreenRecordNoStatusBar
 Author: iosdump
 
+Package: com.iosdump.screenshotnostatusbar
+Architecture: iphoneos-arm64e
+Version: 0.1
+Section: Tweaks
+Maintainer: iosdump
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.iosdump.screenshotnostatusbar_0.1_iphoneos-arm64e.deb
+Size: 5108
+MD5sum: 5c84d1577d96dd85891693702d412ba0
+SHA1: c4bee3597170bdba2b9ed5af5ceafe500d829cff
+SHA256: 3daf915e92594fa4d8fa802da961e19b571d080e4e5a2a820252f3b44801bfa0
+SHA512: 04fab47726593850cfddf36f709d0485991568517a722a85de3e21d9028d861e970b5d6be3510f4acfa0c8877d3ffbb58e8f179bc1c5f560c95037cdec6d06f5
+Description: iOS 14-17 截图时隐藏状态栏，无设置项。（防止某些人盯着状态栏猜用 户）
+Name: ScreenshotNoStatusBar
+Author: iosdump
+
 Package: com.opa334.choicy
 Architecture: iphoneos-arm64e
 Version: 1.5.4
