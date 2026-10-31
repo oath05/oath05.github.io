@@ -22,5 +22,9 @@
   "com.iosdump.screenrecordnostatusbar_0.1_iphoneos-arm64e.deb": {
     "name": "",
     "desc": "iOS 14-17 录屏时全程隐藏状态栏，无设置项。(防止某些人盯着状态栏 猜用户）"
+  },
+  "com.iosdump.screenshotnostatusbar_0.1_iphoneos-arm64e.deb": {
+    "name": "",
+    "desc": "iOS 14-17 截图时隐藏状态栏，无设置项。（防止某些人盯着状态栏猜用 户）"
   }
 }
