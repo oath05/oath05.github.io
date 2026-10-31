@@ -1,3 +1,23 @@
+Package: byg.iosios.net.filzacrack-rootless
+Architecture: iphoneos-arm64e
+Version: 1.1-9
+Section: 软件破解
+Maintainer: 搬运工
+Installed-Size: 120
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/byg.iosios.net.filzacrack-rootless_1.1-9_iphoneos-arm64e_隐根.deb
+Size: 40026
+MD5sum: ac6e977ff8f8369eba08d6736a9a7855
+SHA1: b3404965fa89837ad5d8ffd347df3d8f108904f4
+SHA256: 66e759c351fe0aacbf5847f1a65f28b19b296b2093516d920e37368f040d96a6
+SHA512: a34b967b743c9d8cfc159324e6587c6322af6125ee96c595dc28fe986e3ec8729daba45017a67e20dbb2c04f36308aa0cf65f5472fdfda7653b1a74af59fe843
+Description: Filza破解插件——完整版
+Name: Filza破解插件
+Author: Netskao
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
 Package: com.opa334.choicy
 Architecture: iphoneos-arm64e
 Version: 1.5.4
