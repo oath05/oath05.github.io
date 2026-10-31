@@ -1,0 +1,16 @@
+Origin: 言言源
+Label: 言言源
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: 言言源
+Support: https://oath05.github.io/
+Icon: https://oath05.github.io/CydiaIcon.png
+MD5Sum:
+ 532ad8a4bf00187fd7c2228e08b350e1  669 Packages
+ bc4bd46a3a80f9e96fb05e2af8a1719f  504 Packages.gz
+SHA256:
+ 9583aa6192f7f91c13dc3a48e2e2a50f0222df1c41125db4c974ec6830b039ec  669 Packages
+ 91085a4280b07fe3e95dd7ebf2bc8d39dc7c6950f6b1471f1fc46c0041a29d76  504 Packages.gz

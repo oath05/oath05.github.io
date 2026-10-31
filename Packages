@@ -1,0 +1,17 @@
+Package: com.wkk.glasssuitex
+Architecture: iphoneos-arm64
+Version: 1.1-1
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 1980
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/com.wkk.glasssuitex_1.1-1_iphoneos-arm64.deb
+Size: 472908
+MD5sum: 0d12faa2998189a12474af481505086b
+SHA1: 482dfb6ef248c00e250c1b3f67d96a9200e1ef57
+SHA256: 4b8995a54ca3e7eaca3d33efc1573d3df5e4c796fe51497d264116e4c44923d2
+SHA512: 4d5b318fad56d7e5f114e24d900f27d776e23d3c8e3078c0989e15bf15bac98362cd7f6741b66de7e854c0ab69b6c54c225ca1536e20305f08bb8b60c142e92a
+Description: wkk付费插件已破解
+Name: GlassSuiteX
+Author: wkk
+
