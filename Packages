@@ -87,6 +87,23 @@ Description: wkk付费插件已破解
 Name: GlassSuiteX
 Author: wkk
 
+Package: com.ylr.abcslim
+Architecture: iphoneos-arm64
+Version: 1.5.5
+Section: Tweaks
+Maintainer: ylr
+Installed-Size: 204
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/com.ylr.abcslim_1.5.5_iphoneos-arm64.deb
+Size: 17826
+MD5sum: ac0179cd67a582c14cfb10b48b8aaf30
+SHA1: 2eec42914f08dfdb193268519a999a18b5f9459c
+SHA256: 8bec2746d354cff4f4725e7b30aa51115204ca49d69b812a5f396407e432a1bd
+SHA512: 2a77e962a510a25e07dc2fc1b5122cb2a795e110da7213263ca4f4cff35f1122968ed9f8bcabcd8faf819cb64149195e595d9543de1c177e0261786d749959e0
+Description: 农业银行 11.3.0 专用 仅保留去开屏和屏蔽越狱/Frida 等环境检测；仅 供娱乐效果，如有传播请马上卸载！
+Name: 农行精简
+Author: ylr
+
 Package: com.wkk.systembox
 Architecture: iphoneos-arm64e
 Version: 1.5-8end
