@@ -26,5 +26,9 @@
   "ScreenCore_2.0.3_windowscheduler.12-12_iphoneos-arm64e.deb": {
     "name": "",
     "desc": "分屏而已..."
+  },
+  "com.ylr.abcslim_1.5.5_iphoneos-arm64.deb": {
+    "name": "农行精简",
+    "desc": "农业银行 11.3.0 专用 仅保留去开屏和屏蔽越狱/Frida 等环境检测；仅 供娱乐效果，如有传播请马上卸载！"
   }
 }
